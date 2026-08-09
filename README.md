@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +52,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
