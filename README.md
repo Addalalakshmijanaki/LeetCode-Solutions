@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [2427-number-of-common-factors](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2652-sum-multiples) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
