@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Recursion
 |  |
 | ------- |
