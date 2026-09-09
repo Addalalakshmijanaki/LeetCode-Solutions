@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2427-number-of-common-factors](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
