@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0283-move-zeroes](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Hash Table
 |  |
