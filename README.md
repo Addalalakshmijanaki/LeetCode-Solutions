@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2652-sum-multiples](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2652-sum-multiples) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
