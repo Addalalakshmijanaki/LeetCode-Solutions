@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
