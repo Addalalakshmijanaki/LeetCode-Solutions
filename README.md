@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
