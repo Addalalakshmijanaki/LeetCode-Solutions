@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
@@ -74,10 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Addalalakshmijanaki/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
